@@ -1,4 +1,4 @@
-<img width="808" height="460" alt="dglksej-3ed5f398-b5c8-4d98-b908-43438b2964f2" src="https://github.com/user-attachments/assets/f6d3a7c6-829d-4bd8-8b12-3695686b6359" /><img width="808" height="460" alt="dglksej-3ed5f398-b5c8-4d98-b908-43438b2964f2" src="https://github.com/user-attachments/assets/edebdbb7-7a2f-4425-865e-25cc98c02a35" /># Hi, I'm Marina 👋
+# Hi, I'm Marina 👋
 
 ### 🎮 Aspiring Game Developer | Game Designer | Narrative Designer
 
@@ -33,7 +33,7 @@ My goal is to become a professional Game Developer capable of designing complete
 ## 🛠️ Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=unity,cs,git,github,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=javascript,unity" />
 </p>
 
 ---
@@ -50,28 +50,8 @@ My goal is to become a professional Game Developer capable of designing complete
 
 ---
 
-## 🎨 Pixel Art
-
-<p align="center">
-<img src="<img width="808" height="460" alt="dglksej-3ed5f398-b5c8-4d98-b908-43438b2964f2" src="https://github.com/user-attachments/assets/90baa972-9d33-49b6-9226-8ea0a9c231c4" />" width="180">
-</p>
+<img width="808" height="460" alt="dglksej-3ed5f398-b5c8-4d98-b908-43438b2964f2" src="https://github.com/user-attachments/assets/b823317a-2042-47a0-9f1d-d684a2d84501" />
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🌎 Connect with me
-
-[LinkedIn](https://www.linkedin.com/in/marina-melo-43b264268/))
-
-```
