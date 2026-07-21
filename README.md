@@ -12,14 +12,11 @@ I'm a Digital Games student passionate about creating games that connect players
 
 Currently I'm studying:
 
-- 🎮 Game Development
 - 🧠 Game Design
-- ✍️ Narrative Design
-- 📖 Game Writing
+- ✍️ UI/UX Design
 - 🎨 Pixel Art
-- 💻 Programming for Games
 
-My goal is to become a professional Game Developer capable of designing complete gameplay experiences, combining programming, design, and storytelling.
+My goal is to become a professional Game Designer and UI/UX Designer.
 
 ---
 
