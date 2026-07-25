@@ -4,7 +4,7 @@
 
 # Hi, I'm Marina 👋
 
-### 🎮 Aspiring  Game Designer | UI/UX Designer
+### 🎮 Aspiring  Game Development | UI/UX 
 
 > *"Building worlds, designing experiences, and turning ideas into playable stories."*
 
@@ -12,11 +12,9 @@ I'm a Digital Games student passionate about creating games that connect players
 
 Currently I'm studying:
 
-- 🧠 Game Design
-- ✍️ UI/UX Design
+- 🧠 Game Development
+- ✍️ UI/UX 
 - 🎨 Pixel Art
-
-My goal is to become a professional Game Designer and UI/UX Designer.
 
 ---
 
