@@ -4,7 +4,7 @@
 
 # Hi, I'm Marina 👋
 
-### 🎮 Aspiring  Game Development | UI/UX 
+### 🎮 Aspiring  Game Development |  
 
 > *"Building worlds, designing experiences, and turning ideas into playable stories."*
 
